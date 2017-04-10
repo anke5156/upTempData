@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e388450-da2d-4f2e-a7f8-bd3923536aa1" name="Default" comment="创建温度随机数据">
+    <list default="true" id="1e388450-da2d-4f2e-a7f8-bd3923536aa1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -597,7 +597,7 @@
       <workItem from="1491734753151" duration="381000" />
       <workItem from="1491735204506" duration="8461000" />
       <workItem from="1491787630003" duration="1193000" />
-      <workItem from="1491788878000" duration="42000" />
+      <workItem from="1491788878000" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="创建温度随机数据">
       <created>1491788428491</created>
@@ -620,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491788686692</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="创建温度随机数据">
+      <created>1491788940688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1491788940688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11948000" />
+    <option name="totallyTimeSpent" value="12053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
