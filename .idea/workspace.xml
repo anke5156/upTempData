@@ -603,7 +603,7 @@
       <workItem from="1491788878000" duration="345000" />
       <workItem from="1491800847936" duration="54000" />
       <workItem from="1491814871414" duration="1112000" />
-      <workItem from="1491818039764" duration="1601000" />
+      <workItem from="1491818039764" duration="1857000" />
     </task>
     <task id="LOCAL-00001" summary="创建温度随机数据">
       <created>1491788428491</created>
@@ -665,7 +665,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15018000" />
+    <option name="totallyTimeSpent" value="15274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
